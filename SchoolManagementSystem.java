@@ -133,4 +133,16 @@ public class SchoolManagementSystem {
             }
         }
     }
-}
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+OUTPUT
+    
+===== SCHOOL MANAGEMENT SYSTEM =====
+1. Add Student
+2. View Students
+3. Add Teacher
+4. View Teachers
+5. Exit
+Enter Choice: 4
+No Teacher Records Found.
+
